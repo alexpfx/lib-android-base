@@ -5,6 +5,5 @@ package br.com.alexpfx.android.lib.base.event;
  */
 public interface BusEvent {
 
-    //tESTe
 
 }
